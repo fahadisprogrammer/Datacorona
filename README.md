@@ -1,0 +1,2 @@
+# Datacorona
+linkdata
